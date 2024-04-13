@@ -1,5 +1,6 @@
 # UdyamWell-AI-Carousel-Creator
 
+**Video Walkthorugh Link** - https://youtu.be/rJ8OikuxT6s?si=PAecP9wPp6Hqni8a 
 ## Features
 * Use of generative AI to generate product images from key product information.
 * Use Carousel Creation Editor to create visually stunning carousels of proudct.
